@@ -1,4 +1,4 @@
-#Set-OneDriveAsDefaultLocation
+# Set-OneDriveAsDefaultLocation
 
 .SYNOPSIS
 Changing Windows Explorer's default location to save files.
